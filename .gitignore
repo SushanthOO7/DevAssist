@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Local tooling/config
+.vscode/
+*.code-workspace
+
+# Logs and temp data
+*.log
+.tmp/
+tmp/
+
+# Model checkpoints and training artifacts
+artifacts/
+
+# Collected datasets and captures
+data/
+overlays/
+# OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,287 @@
+{
+  "cookies": [
+    {
+      "name": "_vc_view",
+      "value": "list",
+      "domain": "vercel.com",
+      "path": "/sushanths-projects-1f0c8a01",
+      "expires": 1796242468.209226,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "toolbarCache",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..AEXrBujIQkCGZfF8.RpV5Q4OtArLk_xIloJZQt-PNYNC0Og4mi9BQR9n3Sy6rxQ0Itgi11Pk3615FGnq1X9Dq0KyhbsncF78a7J-qcmiJY2qyzfrq1kKe41XjCNlGupNMYqM8_YyUn1JB_Fy6yQE.HIQ632YHx16FR51K6nvdAw",
+      "domain": "vercel.com",
+      "path": "/api/toolbar",
+      "expires": 1764708270.409885,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visitor-id",
+      "value": "rJ58I9dGplO_VfAIcPccX",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": 1764792767.801737,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vercel_session_id",
+      "value": "MTMyOTI0ODYxNSwzNDU1MDA4OTM3LDM0NjI0NjQ5MzcsMTczODM5NTk0MywyODA2ODI0NTcx",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1764706369001,\"i_b\":\"EoQLN3w9rBMinb6kvOVuAPX6MS0nhVxuNS1cu7wi8tk\"}",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": 1780258369,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_octo",
+      "value": "GH1.1.895984177.1764706371",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1796242372.764119,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cpu_bucket",
+      "value": "lg",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tz",
+      "value": "America%2FPhoenix",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_device_id",
+      "value": "d32f013aa116db5fd490f0578e0761c9",
+      "domain": "github.com",
+      "path": "/",
+      "expires": 1796242373.905061,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "saved_user_sessions",
+      "value": "83573714%3AVdhJW7HAv-w24Z0YK1nd4NrbS5fwpRG2XEcyc7h4c7y-lcpr",
+      "domain": "github.com",
+      "path": "/",
+      "expires": 1772482461.530482,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_session",
+      "value": "VdhJW7HAv-w24Z0YK1nd4NrbS5fwpRG2XEcyc7h4c7y-lcpr",
+      "domain": "github.com",
+      "path": "/",
+      "expires": 1765916061.531445,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-user_session_same_site",
+      "value": "VdhJW7HAv-w24Z0YK1nd4NrbS5fwpRG2XEcyc7h4c7y-lcpr",
+      "domain": "github.com",
+      "path": "/",
+      "expires": 1765916061.53178,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tz",
+      "value": "America%2FPhoenix",
+      "domain": "github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "color_mode",
+      "value": "%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logged_in",
+      "value": "yes",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1796242461.533208,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dotcom_user",
+      "value": "SushanthOO7",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1796242461.533495,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gh_sess",
+      "value": "AN9grbB5U95Y9%2BS%2BfWiHQYoyLvxk9bY2GhoxyT46b6iwnk5%2BWpTUJPtsgTHr836za5%2BPgY4ggGIBzlyYVdDdEEuT99BholMzgP2839cGzFhBIs1zwvj3v9EVKgyuQ0wclAu2KIguT3d7aVUQAuDJ9qoZovHrE4C%2FlubY8WY8UkHRlPh0skjC5F4LoHPVMJc3GrNKLX6k3jWrLmG7Lt8kzaHd%2Fwjt33hk%2BajwNvtnNx82Ht2KCiwDPz%2BeDvjebDbWdPObz5yZSNq9kfXmBUhAQW8rEOq7fy1HUgsD3xqO6zJk6NqLQkqZs0HB7Sf4HTSS9UeB0yGu%2B%2FC9EhXMqWLpDmRWBoLBd3nkvooB1MtzqQvKrXgqUU8s3d1EneTopXtpMPKo9J9JaKgtm42ZxTTtxQthnisROij3FaWBN7JMxbmhRo447aYzthqulmmN3ro27PiMSpO3RnmBZmLuw9Tv1MI2qq2h1gwHQlGPDpyzsFcSSD7xQlyCZK8YeL9BEyR56mv27OnVtwWzZK5vhnH4Yu04zE5ldFGyA58uLGQJcoZjv6MvCkeHRCT%2B63ctKT78lN4Zbq8VPa6wUxqgQG6pfMPJwz648n%2FHbTy3%2BP%2Bsk8RkxHuC3MF6X4mKti%2BpUCHNnuwZXlsF3OMgU7ALa48FY0VwB75W7uJyswh2KfvjGNNs5j1%2F%2BLC9bdOyjplTxF7EVCGvXaUkzb00pT8vEa0FN8uIZF8zjrwimcryN%2B47zdY9%2Fis%2FAoeRAhvHUv7RNMIgkIsjrCenzqV023cpoJIS0FLZeYFjuc7sby9%2Bizaq%2Bf%2B6Rmm2F2tqpp7NnNskj9E39g8PtYMkWRAMsHEg5F0OmTQDgIsK67SxtRaBVxvbb5NQy3NilMKv%2F1YBc0ei1hEd0xBXgkjd1YC%2FCuAJ5ySiyQdorod9K%2FOFmxIvrsTedo8y5gR3h7culWGBISKejPReS6lvituZzmjpAnnAeHhJ%2BroiZFo1yGSYLlNmLTp5%2Bbl%2BTFKAcfZiVtRIcLId7duqwbI9Bh7K60c%3D--O5rSctjpppRoHHjZ--%2FNwuCSCGtHtFuKoF15ytIA%3D%3D",
+      "domain": "github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preferred_color_mode",
+      "value": "dark",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authorization",
+      "value": "Bearer%20G9TFn2hxFVWbuVzya5tJxacx",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": 1796242465.452655,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isLoggedIn",
+      "value": "1",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": 1796242465.452965,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "domains-temp-id",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiJad0VoSktmNXhWTU9PMm1JMjlRZmpxSEEiLCJpYXQiOjE3NjQ3MDY0NjYsImV4cCI6MTc2NDcwNjc2Nn0.FmN7ecjjwdtmGz_kIQ85uebDZ5KY1Y3fx1uhHPDcbgI",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": 1764706768.146935,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userCache",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyLWluZm8tY2FjaGUiLCJpYXQiOjE3NjQ3MDY0NjcsImV4cCI6MTc5NjI0MjQ2NywidWlkIjoiWndFaEpLZjV4Vk1PTzJtSTI5UWZqcUhBIiwidXNlcm5hbWUiOiJzdXNoYW50aDI5NDIwMDAtNDQ0MiIsImVtYWlsIjoic3VzaGFudGguMjk0MjAwMEBnbWFpbC5jb20iLCJpc1ZlcmNlbGlhbiI6ZmFsc2UsImlzUGFydE9mQW55RW50ZXJwcmlzZVRlYW0iOmZhbHNlLCJoYXNOb1RlYW0iOmZhbHNlLCJkZWZhdWx0VGVhbUlkIjoidGVhbV9kdXdWM2VSSlROUkFLYnh4VzZxM2hybEMiLCJkZWZhdWx0VGVhbVNsdWciOiJzdXNoYW50aHMtcHJvamVjdHMtMWYwYzhhMDEiLCJpc05vcnRoc3RhciI6dHJ1ZSwibmFtZSI6IlN1c2hhbnRoIiwiYXZhdGFyIjpudWxsfQ.wjxZN8ynWngEnAijettTyNsebpf3jOQzzSxibBE3GX8",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": 1796242469.132877,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "teamsCache",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyLXRlYW0tY2FjaGUiLCJpYXQiOjE3NjQ3MDY0NjcsImV4cCI6MTc5NjI0MjQ2NywidGVhbVNsdWdJZE1hcCI6e319.ppuNV_AF3L5LaaexKr_2NbuvhKcSEc1Yoo6ZmhfYQLo",
+      "domain": "vercel.com",
+      "path": "/",
+      "expires": 1796242469.133013,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "value": "d40df5f1-16d5-417d-a565-93d9b194434e499790",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1799266474.449473,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "9e732771-f6f3-471a-a1a0-0c9e34d5f309399047",
+      "domain": ".vercel.com",
+      "path": "/",
+      "expires": 1796242472,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "a0115e7d-0009-4661-be5a-792984386be9814372",
+      "domain": ".vercel.com",
+      "path": "/",
+      "expires": 1764708272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://vercel.com",
+      "localStorage": [
+        {
+          "name": "utmValues",
+          "value": "{\"currentUtm\":{\"utm_source\":\"\",\"utm_medium\":\"\",\"utm_campaign\":\"\",\"utm_content\":\"\",\"utm_term\":\"\"},\"prevUtm\":{\"utm_source\":\"\",\"utm_medium\":\"\",\"utm_campaign\":\"\",\"utm_content\":\"\",\"utm_term\":\"\"}}"
+        },
+        {
+          "name": "lastUsedAuth",
+          "value": "github"
+        },
+        {
+          "name": "referrers",
+          "value": "{\"firstReferrer\":\"https://github.com/\"}"
+        },
+        {
+          "name": "vercel:ldTeamFlags:v2",
+          "value": "{\"sushanths-projects-1f0c8a01\":{\"AutoCloseAbuseCasesEnabled\":true,\"Customer-Downgrade\":true,\"New-Pro-Migration-Enabled\":false,\"ab-test-enhanced-builds\":false,\"ab-test-turbo-build-machine\":false,\"access-requests-page\":true,\"accessgroups-contributor-on-pro\":false,\"active-branches\":true,\"advanced-firewall-flag\":false,\"affected-project-deployments-self-serve\":false,\"agents-build-fix-webhook\":false,\"agents-fix-runtime-error\":false,\"ai-marketplace\":false,\"alerts-observe-tab\":false,\"alerts-tab\":false,\"algolia-full-project-indexing\":false,\"allow-aws-env-vars\":true,\"allow-huge-lambda-summary\":false,\"allow-nodejs-24\":true,\"allow-pro-trials-to-use-analytics-for-free\":true,\"allow-setting-build-queue-configuration\":false,\"allow-status-code-on-rewrites\":false,\"allow-v5-get-deployment-unauthed\":false,\"always-obtain-in-init\":true,\"always-warm-functions\":false,\"analytics-ga-date\":\"2023-04-19T20:00:00.000Z\",\"analytics-v2\":true,\"anomaly-error-webhook\":true,\"anomaly-webhook\":true,\"ansi-logs\":false,\"api-billing-costs-no-projects\":false,\"api-builds-always-in-sfo\":true,\"api-deployments-fine-tune-get-missing-files-query\":false,\"api-deployments-routes-endpoint\":false,\"api-keys\":true,\"apps-cursor-wildcard-redirect-uris\":false,\"apps-enable-client-credentials-grant\":false,\"apps-enable-correct-sso-behavior\":false,\"apps-enable-dcr-for-mcp-with-vercel-apps\":false,\"apps-enable-device-code-grant\":false,\"apps-enable-legacy-permissions\":false,\"apps-enable-oidc-token-client-auth\":false,\"apps-enable-private-key-jwt-client-auth\":false,\"apps-enable-read-user-permissions\":false,\"apps-enable-team-permissions\":false,\"apps-enable-token-exchange-grant\":false,\"archive-loop-v2-dry-run\":false,\"archive-loop-v2-live\":false,\"archive-loop-v2-mode\":\"dry-run\",\"artifacts-jwt-auth\":true,\"artifacts-paid-notification-blocked\":false,\"attackmode-beta-flag\":true,\"audiences-custom-events\":false,\"audit-log\":true,\"audit-log-event-tracking\":true,\"audit-log-export-check\":false,\"audit-log-export-tinybird\":true,\"audit-log-stream\":false,\"audit-log-workos\":false,\"auto-close-abuse-cases-enabled\":true,\"auto-close-abuse-cases-teams\":false,\"automatic-refund-invoice-items\":true,\"batch-invite-api\":true,\"bfcm-2025-observability-plus-promotion\":false,\"billing-costs-streaming-cache\":true,\"billing-costs-streaming-compression\":true,\"blob-api-read-s3\":\"production\",\"blob-api-write-s3\":\"production\",\"blob-existing-stores-billing-start-date\":\"2025-06-16T13:00:00.000Z\",\"blob-force-beta\":false,\"blob-ga-date\":\"2025-05-21T13:00:00.000Z\",\"blob-ga-rollout-active\":true,\"block-deploying-from-private-org-repo-to-hobby\":true,\"brakken-scratch-testing\":false,\"build-container-create-edge-function-in-sfo\":true,\"build-container-lower-s3-sema\":false,\"build-container-retry-on-missing-response-baton\":true,\"build-container-static-asset-compression\":true,\"build-diagnostics-collect-installed-dependencies\":true,\"build-log-highlight-stderr\":true,\"build-queue-team-settings\":true,\"build-suspense-cache\":false,\"bulk-env-variables\":true,\"cache-handler-memory-cache\":false,\"cidr-blocking\":true,\"client-certificate-upload\":false,\"collect-billing-addresses\":true,\"comment-snapshots\":false,\"comments-markdown\":true,\"compressed-isr-billing\":true,\"concatenate-orb-discounts\":false,\"conformance-on-vercel-dashboard\":false,\"copper-budget\":false,\"coupon-immediate-apply\":false,\"coupon-redeem-api\":false,\"create-marketplace-integration\":false,\"cron-jobs-billing\":false,\"cron-jobs-deploy-summary\":true,\"custom-rate-limit-override\":false,\"dashboard-tips-2025\":true,\"data-cache-billing\":false,\"data-cache-billing-feature\":false,\"data-cache-observability\":true,\"data-cache-usage-api-v2\":true,\"data-cache-usage-feature\":false,\"data-cache-usage-notifications\":false,\"datadog-otlp-traces\":false,\"ddos-usage\":false,\"debug-mode-for-send-logs-to-drains\":[\"in.logs.betterstack.com\",\"in.logtail.com\",\"nr-data.net\"],\"defer-aws-lambdas-wait\":true,\"delegated-billing\":false,\"delete-orb-team\":false,\"delete-stores-with-missing-owner\":true,\"deploy-edge-functions-concurrently\":true,\"deployment-enabled-globs\":true,\"deployment-env-from-s3-only\":true,\"deployment-integrations\":true,\"deployment-retention\":false,\"deployment-routes-build-output\":false,\"deployment-routes-build-output-v1\":true,\"deployment-routes-build-output-v2\":false,\"deployment-routes-build-output-v3\":false,\"deployment-routes-clean\":true,\"deployment-time-chart\":false,\"deployment-usage-use-pub-sub\":true,\"deployment-use-pub-sub\":true,\"deployments-page-date-picker\":true,\"deprecate-microfrontends-deployment-routing\":true,\"detect-node-version-on-project-creation\":true,\"disable-error-log-drains\":true,\"disable-error-log-drains-dry-run\":true,\"disable-invocation-log-drains\":false,\"disable-log-drain-UI\":true,\"disable-spend-management\":false,\"discover-build-container-folder-sizes\":true,\"discussion-view\":false,\"display-log-drain-usage\":true,\"docs-ai-experiment\":false,\"drains-v2\":true,\"eager-provision-concurrency\":false,\"edge-config-cached-functions-query\":false,\"edge-config-ddb-writes\":true,\"edge-config-header\":true,\"edge-config-stream\":false,\"edge-config-stream-global\":true,\"edge-config-webhooks\":false,\"edge-cross-request-fetch\":true,\"edge-fns-on-workerd-unbundled-format\":true,\"edge-functions-artifacts-in-filesystem\":true,\"edge-functions-bundle-batch-size\":15,\"edge-functions-cf-streams-enable-constructors\":true,\"edge-functions-enable-create-func-dedupe\":true,\"edge-functions-enhanced-resolve\":false,\"edge-functions-entitlements-display\":false,\"edge-functions-on-serverless-artifacts-in-filesystem\":true,\"edge-functions-on-serverless-custom-max-duration\":300,\"edge-functions-on-serverless-custom-memory-size\":1024,\"edge-functions-on-serverless-node\":true,\"edge-functions-on-serverless-source-map-artifacts-in-filesystem\":false,\"edge-functions-on-serverless-tracing-disabled\":false,\"edge-functions-on-serverless-workerd\":true,\"edge-middleware-billing-start-date\":1657292400000,\"edge-middleware-on-serverless-custom-memory-size\":1024,\"edge-middleware-on-serverless-node\":true,\"eight-core-enhanced-builds\":false,\"emit-dd-field-in-log-drains\":false,\"empty-fetch-metrics-stdout-event-filtering\":true,\"enable-alias-bulk-redirects\":false,\"enable-bitbucket-webhook-secrets\":true,\"enable-blob-spend-management\":true,\"enable-build-container-profiling\":false,\"enable-code-checks\":false,\"enable-coupon-safe-si-qty\":true,\"enable-cron-scan-projects-pruning\":true,\"enable-cron-scan-projects-settings-backfill\":true,\"enable-customer-costs\":true,\"enable-dashboard-mono-recent-writes\":true,\"enable-dashboard-recent-writes\":true,\"enable-dashboard-recents\":true,\"enable-dashboard-recents-clone\":false,\"enable-deployment-bulk-redirects\":true,\"enable-domain-search\":true,\"enable-extended-fallback-payload\":true,\"enable-func-node-runtime-preferred-region\":false,\"enable-function-resource-pruning\":false,\"enable-gitlab-webhook-secrets\":true,\"enable-global-bun-package-cache\":false,\"enable-gzip-for-drain-payloads\":false,\"enable-hive-functions\":true,\"enable-ignore-build-step-with-squashfs\":true,\"enable-large-build-cache\":false,\"enable-log-body-in-process-records\":true,\"enable-logs-query-string\":true,\"enable-multi-region-build-cache\":true,\"enable-observability-error-dashboard\":false,\"enable-observability-subscriber\":true,\"enable-parallel-cache-download\":true,\"enable-parallel-prepare-cache\":false,\"enable-path-lookup-bloom-filter\":true,\"enable-path-lookup-doc-v1\":true,\"enable-ppr-experimental\":true,\"enable-process-records-debug-log\":false,\"enable-project-recommendations-captcha-requests\":true,\"enable-recent-queue-writes\":true,\"enable-recents-prune-on-read\":true,\"enable-redirect-logs\":false,\"enable-regionalized-isr\":true,\"enable-rewrite-logs\":false,\"enable-session-tracing-system-drain\":true,\"enable-ship-spend-management\":true,\"enable-skew-protection-allowed-domains\":false,\"enable-squashfs-fragments\":false,\"enable-static-logs\":false,\"enable-team-retention-policy\":true,\"enable-test-webhooks\":false,\"enable-uncompressed-lambda-size-check\":true,\"enable-usage-summary-emails\":true,\"enable-vercel-auth-for-new-projects\":true,\"enable-vercel-flags-keys\":true,\"enable-vercel-variant-docs\":false,\"encrypt-deployment-build-env\":true,\"encrypt-function-config-environment\":true,\"enforce-scopes-for-new-integrations\":false,\"experiment-editor\":false,\"experimental-cosmos-partial-update\":false,\"experimental-streaming-actions\":false,\"expose-deployment-protections-as-env-vars\":true,\"federated-webhooks\":\"enabled\",\"feedback-command-k\":false,\"feedback-commands\":true,\"feedback-content-moderation\":true,\"feedback-edit-mode\":true,\"feedback-inline-editing\":false,\"feedback-layout-shifts\":true,\"feedback-page-content-update\":false,\"feedback-project-management-integration\":true,\"feedback-reactions\":true,\"feedback-sharing-modal\":true,\"feedback-tips\":false,\"feedback-variants-deploy-step\":false,\"fingerprint-scan-enabled\":false,\"firewall-custom-rule-anomaly-webhook\":false,\"firewall-custom-rules\":true,\"firewall-custom-system-bypass\":false,\"firewall-ip-bypass\":true,\"firewall-ip-bypass-limit-override\":100,\"firewall-log-drains\":true,\"firewall-managed-ai-bots\":true,\"firewall-managed-rules\":true,\"firewall-owasp\":false,\"firewall-rate-limiting\":false,\"firewall-system-rule-anomaly-webhook\":false,\"firewall-transform-rules\":false,\"firewall-webhooks\":true,\"flags-platform-integration\":true,\"flags-tab\":false,\"fluid-by-default\":true,\"fluid-metrics\":false,\"force-encrypted-env-var-injection\":true,\"free-tier-project-limits\":true,\"functions-on-dynamodb\":false,\"functions-use-bun-runtime\":true,\"functions-use-executable-runtime\":true,\"gatsby-builder-plugin\":true,\"git-exclusivity\":true,\"git-filter-blob-none-support-for-build-container\":false,\"git-lfs-support-for-build-container\":false,\"git-push-repo-private-templates\":false,\"github-conditional-requests\":false,\"github-conditional-requests-shadow-mode\":false,\"github-rate-limit-protection\":false,\"gitlab-webhook-token\":false,\"hackathon-2024-my-ships\":false,\"hackathon-2024-turbo-ci\":false,\"hackathon-surface-failed-jobs\":false,\"hackweek2024-toolbar-render-observer\":false,\"hard-delete-integration-store\":false,\"hard-delete-kv-store\":true,\"hard-delete-postgres-store\":true,\"hard-delete-store\":true,\"has-log-drains-grace-period\":true,\"hide-deployment-details-for-skipped-builds\":true,\"hide-request-access\":false,\"hide-zero-dollar-invoice-items\":false,\"iam-user-entitlements\":true,\"iam-user-entitlements-force-v0\":false,\"idp-info-migration\":false,\"image-optimization-sources\":true,\"import-next-js-traces-to-datadog\":false,\"include-speed-insights-cost-limit-on-new-pro\":false,\"increase-post-lambda-limit\":false,\"increase-post-lambda-limit-with-value\":100,\"index-open-search-branches\":true,\"india-mandates\":true,\"insert-isr-update-logs-in-tinybird\":true,\"instant-preview-url\":true,\"instant-rollback\":true,\"instant-rollback-ga\":false,\"instant-rollback-hobby-restriction\":true,\"integration-configuration-upsert-disabled\":false,\"integrations-auto-project-scope\":true,\"internal-file-ref-sema\":false,\"invite-flow-sift-evaluation\":true,\"ip-blocking\":true,\"ip-diff-enabled\":true,\"is-oem-partner\":false,\"isolated-project-builds\":\"disabled\",\"kinesis-autoscale-configuration\":{\"metricsTimeRangeInMinutes\":5,\"shardCountIncrease\":4,\"threshold\":0.75,\"windowSize\":2,\"metricsGranularityInMinutes\":1},\"lambda-outputs-as-middleware\":true,\"ld-on-demand-concurrency-minutes\":true,\"ld-on-demand-concurrent-builds-5-minute-slot\":false,\"ld-on-demand-concurrent-builds-on-pro\":false,\"list-view-feedback-popover\":false,\"lock-by-owner-in-pick-sbq\":true,\"log-drain-compression\":false,\"log-drain-compression-domains\":{\"http-intake.logs.us5.datadoghq.com\":\"gzip\",\"log-api.eu.newrelic.com\":\"gzip\",\"http-intake.logs.datadoghq.eu\":\"gzip\",\"http-intake.logs.ap1.datadoghq.com\":\"gzip\",\"log-api.newrelic.com\":\"gzip\",\"http-intake.logs.ap2.datadoghq.com\":\"gzip\",\"http-intake.logs.us3.datadoghq.com\":\"gzip\",\"http-intake.logs.ddog-gov.com\":\"gzip\",\"http-intake.logs.datadoghq.com\":\"gzip\"},\"log-drain-compression-vercel-test\":false,\"log-drain-edge-config\":true,\"log-drain-edge-metadata\":false,\"log-drain-ja-3-digest\":false,\"log-drain-request-id-change\":true,\"log-drain-response-byte-size\":false,\"log-drain-static-vector\":false,\"log-drains-billing\":false,\"log-drains-deployment-meta\":false,\"log-drains-ga\":true,\"log-drains-project-name\":true,\"log-trace-correlation-via-drains\":true,\"logdrains-delivery-timeout\":{\"in.logs.betterstack.com\":{\"ap-northeast-2\":7500,\"ap-northeast-3\":6500,\"ap-southeast-1\":7000,\"ap-southeast-2\":7000,\"ap-east-1\":7000,\"ap-northeast-1\":7000},\"in.logtail.com\":{\"ap-northeast-3\":6500,\"ap-southeast-1\":7000,\"ap-southeast-2\":7000,\"ap-east-1\":7000,\"ap-northeast-1\":7000,\"ap-northeast-2\":7500},\"api.axiom.co\":{\"us-west-1\":7000,\"ap-northeast-3\":7000,\"af-south-1\":7000,\"eu-west-2\":7000,\"eu-west-3\":7000,\"ap-south-1\":7000,\"eu-west-1\":7000,\"ap-southeast-1\":7000,\"us-east-2\":7000,\"eu-central-1\":7000,\"ap-southeast-2\":7000,\"ap-northeast-1\":7000,\"ap-northeast-2\":7000,\"us-east-1\":7000,\"ap-east-1\":7000,\"eu-north-1\":7000,\"sa-east-1\":7000,\"us-west-2\":7000},\"cloud.axiom.co\":{\"eu-west-1\":7000,\"ap-northeast-3\":7000,\"af-south-1\":7000,\"eu-west-3\":7000,\"eu-central-1\":7000,\"us-west-1\":7000,\"sa-east-1\":7000,\"ap-northeast-2\":7000,\"us-east-1\":7000,\"us-east-2\":7000,\"ap-southeast-1\":7000,\"ap-northeast-1\":7000,\"us-west-2\":7000,\"ap-south-1\":7000,\"eu-north-1\":7000,\"eu-west-2\":7000,\"ap-southeast-2\":7000,\"ap-east-1\":7000}},\"logs-consumer-3-use-redis-cache\":true,\"logs-consumer-3-use-s3-for-log-drains-payload\":true,\"logs-fetch-metrics\":true,\"logs-search-filter\":true,\"logs-timeseries\":false,\"manual-git-deploys\":true,\"marketplace-billing-authorization\":true,\"marketplace-billing-settings\":false,\"marketplace-checkout-session\":false,\"marketplace-draft-invoice-sales-tax\":true,\"marketplace-failed-topup-notifications\":false,\"marketplace-integration-configuration-merge-flow\":true,\"marketplace-integration-configuration-transfer-to-team\":true,\"marketplace-integration-resource-dependency-claims\":true,\"marketplace-ledger\":false,\"marketplace-migration\":true,\"marketplace-prepayment-livemode\":true,\"marketplace-rank-flags-providers\":false,\"marketplace-resource-claim-skip-provider-call\":false,\"marketplace-resource-claim-team-test\":false,\"marketplace-resource-claims-install-missing-integrations\":true,\"marketplace-reviewers\":false,\"marketplace-stripe-invoicing\":true,\"marketplace-test-integration\":false,\"marketplace-unique-resource-name-on-sync-store-team-scoped\":false,\"marketplace-upstash\":false,\"members-idp-profile\":false,\"members-mfa-status\":true,\"mfa-enforcement\":true,\"mfe-internal-alias\":false,\"mfe-internal-alias-projects\":{\"projects\":[\"prj_4WvhPSwtBo5yNOtp6V2StvSGiyk4\",\"prj_llbp8PAndTmS7O2xCF0uHl8msLV7\"]},\"mfe-project-domain-fallback\":false,\"microfrontends-aliases-rollout\":true,\"microfrontends-commit-alias-on-ready\":true,\"microfrontends-new-fallback-behavior\":true,\"monitoring-access-override\":false,\"monitoring-advanced-aggregations\":true,\"monitoring-deprecation\":true,\"monitoring-invoice-item\":false,\"monitoring-minimum-granularity\":\"5min\",\"monitoring-pricing-2.0\":true,\"monitoring-project-picker\":false,\"monitoring-query-variant\":\"queryEngine\",\"move-branches-with-project-transfer\":true,\"move-build-logs-with-project-transfer\":false,\"multi-automation-bypass\":false,\"multi-container-support\":false,\"multi-team-bitbucket\":true,\"n1-legacy-logs\":false,\"n1-request-cancellation\":false,\"net-cpu-billing-for-functions-projects\":\"prj_SMZ9vOAYAzbx9tmnLVbZLy7MHuwl\",\"net-cpu-functions\":true,\"new-builds-usage-query\":true,\"new-dp-standard-protection\":true,\"new-instant-rollback-flow\":false,\"new-monorepo-onboarding\":false,\"new-project-transfer\":false,\"new-upgrade-flow\":false,\"next-preload-common-chunks\":false,\"node-bridge-compress-multi-payloads\":true,\"node-bridge-compress-serverless-response\":true,\"node-bridge-fetch-o11y\":true,\"node-bridge-recursion-guard\":true,\"notifications-alpha\":true,\"notifier-email\":true,\"nsnb-deploy-hooks-enabled\":true,\"nsnb-deployment-block-pro\":true,\"nsnb-deployment-blocks\":true,\"nsnb-deployment-checks\":true,\"nsnb-deployment-enforcement-invalid-team-member\":true,\"nsnb-deployment-enforcement-missing-git-user\":true,\"nsnb-deployment-enforcement-missing-vercel-user\":true,\"nsnb-deployment-enforcement-no-matching-email\":true,\"nsnb-deployment-enforcement-private-email\":true,\"nsnb-email-notifications\":true,\"observability-anomaly-slack-channel-id\":\"C09EAPFTVPH\",\"observability-error-anomaly-legacy\":\"enabled\",\"observability-new-drains-caching\":true,\"observability-plus-access\":\"inherit\",\"observability-usage-anomaly-legacy\":\"enabled\",\"observe-tab\":false,\"on-demand-skip-namespace-queue\":false,\"open-telemetry\":true,\"open-telemetry-api-scope\":false,\"open-telemetry-datadog\":false,\"optimize-global-invalidations\":true,\"orb-migration-level\":\"none\",\"orb-subscription-state\":false,\"organization-domain-verification\":false,\"pause-team-projects\":true,\"percentage-multi-container-rollout\":0,\"pin-lambda-runtime-version\":false,\"postgres-default-role\":false,\"postgres-hobby-trial-suspension\":false,\"ppp-protect-past-production\":true,\"pr-comment-table-format\":true,\"prerender-metadata-as-boundary\":false,\"prerender-metadata-as-metadata-file\":true,\"prevent-subrequest-skipping-in-nextjs\":true,\"preview-comments-default-on\":true,\"private-org-repo-to-hobby-blocked-email-notification\":true,\"pro-and-ent-on-demand-enhanced-builds\":true,\"pro-automatic-refund-delete\":true,\"pro-automatic-refund-downgrade\":true,\"pro-saml-only-google\":false,\"pro-trial-experiment\":false,\"product-catalog-use-copper\":true,\"production-deployment-pruning-enabled\":true,\"project-budget-rules\":false,\"project-cache-owner-and-name-to-id\":false,\"project-checks-enabled\":true,\"project-domain-webhooks\":true,\"project-entities-overview\":true,\"project-rbac-access-groups\":false,\"project-settings-git-comments\":true,\"project-team-invite-improvements\":false,\"project-transfer-requests\":false,\"promote-without-current-deployment\":false,\"protected-git-scopes-id\":false,\"pull-request-sync-enabled\":false,\"pusher-deployment-events\":true,\"quality-scan\":false,\"randomized-intake\":false,\"rbac-access-groups\":true,\"rbac-billing-role-on-pro\":true,\"rbac-developer-can-deploy-to-production-from-git\":true,\"rbac-filtering-by-project-ids\":true,\"rbac-set-default-roles\":false,\"rbac-update\":true,\"redacted-build-logs\":false,\"redeploy-by-deployment-id\":true,\"remove-auto-generated-log-message\":true,\"remove-prepended-slash-from-logs\":false,\"report-abuse\":false,\"repository-dispatch-events\":true,\"repository-dispatch-project-events\":false,\"require-production-alias-to-promote\":true,\"require-scopes-for-old-integrations\":false,\"reseller-teams\":false,\"restrict-log-drains-for-hobby\":false,\"restricted-environment-variable-access-for-integrations\":true,\"richer-deployment-outputs\":true,\"richer-deployment-outputs-ui\":true,\"rolling-release-complete-after-aliasing\":true,\"rolling-release-last-alias-request-check\":true,\"rolling-release-publish-deployment-aliases-ready\":false,\"rolling-releases\":true,\"rollout-get-projects-from-git-credential\":false,\"rollout-is-linked-to-multiple-projects\":false,\"rollout-vercel-plus\":false,\"route-high-concurrency-builds-to-honey\":true,\"runtime-logs-extended-timeline\":false,\"sbq-signature-generation-api-builds\":false,\"sc-async-fetch-experiment\":true,\"sddj-github-event-dlq-test\":false,\"sddj-github-graphql-migration\":false,\"sddj-node-engine-lookup-from-package-json\":\"fetch-and-send\",\"search-open-search-branches\":true,\"search-open-search-domains\":false,\"search-open-search-projects\":true,\"seawall-config\":false,\"secure-compute-cloudformation-template-version\":\"iApcvqdmiBHdM78kCDYBYMctoR4EP7Yx\",\"secure-compute-eight-core-enhanced-builds\":false,\"secure-compute-environments\":true,\"secure-compute-hive-enabled-private-network\":\"\",\"secure-compute-project-usage-tracking\":true,\"secure-compute-self-service\":false,\"secure-compute-with-hive-connector\":false,\"secure-integration-tokens-with-scopes\":false,\"send-domain-contact-verification-email\":false,\"send-edge-cache-hit-logs\":false,\"send-fetch-metrics-to-drains\":false,\"send-log-drain-audit-log\":true,\"send-prerender-logs-to-tinybird\":false,\"serverless-function-failover\":true,\"serverless-suspense-cache\":true,\"set-requested-at-production-on-deployment\":true,\"set-vercel-shallow-since-clone\":false,\"sharded-isr-l4-cache\":false,\"shareable-link-expiry\":true,\"sharing-experience-invitation\":true,\"show-aws-in-featured-section\":false,\"show-build-diagnostics\":false,\"show-flags-panel-for-analytics\":false,\"show-invoice-page-payment\":true,\"show-logs-grouping\":true,\"show-scopes-for-old-integrations\":false,\"sideloading-process-records\":true,\"skip-custom-domain-assignment\":true,\"skip-lambda-provisioning-for-passive-regions\":false,\"skip-ultra-billing\":false,\"slack-link-unfurls\":false,\"slack-subscribe-command\":true,\"sms-notifications\":false,\"speed-insights-pricing-refresh-1\":false,\"spend-caps-configuration-enabled\":false,\"spend-caps-notifications-enabled\":false,\"spend-caps-pausing-enabled\":false,\"ssdj-api-deployments-early-ignore-step\":true,\"ssdj-api-deployments-redis-semaphore\":false,\"start-sending-to-sbq\":false,\"statement-of-reasons-notification\":true,\"stop-sending-to-nbl\":false,\"storage-enterprise\":\"\",\"storage-inactive-store-deletion-redis\":true,\"storage-integration\":true,\"storage-neon-domain\":true,\"storage-neon-ssl-mode\":true,\"storage-suspension-queue-v2\":true,\"storage-test-kv-cname\":false,\"storage-transfer-enterprise\":false,\"storage-upstash-domain\":true,\"storage-usage-threshold-limits\":false,\"storage-usage-v2\":true,\"storage-usage-v3\":true,\"storage-usage-v4\":true,\"storage-usage-v5\":true,\"store-billing-1\":true,\"store-list-rsc\":true,\"store-pinecone\":false,\"store-source-deployment-on-build-cache\":true,\"store-status-design\":true,\"store-uncompressed-size-on-build-cache\":false,\"stripe-immediate-migration-mode\":\"end-of-cycle\",\"stuck-deployments-fix\":false,\"sugp-deployment-ready-handling\":true,\"sunset-log-drain-syslog-delivery\":true,\"sunset-secrets\":true,\"support-center\":true,\"team-default-deployment-protection\":true,\"team-env-variables\":true,\"throttle-worker-uploads\":false,\"tinybird-upcoming-invoice\":false,\"toolbar-accessibility-audit\":true,\"toolbar-accessibility-auto-run\":true,\"toolbar-auto-hide\":false,\"toolbar-bisect\":false,\"toolbar-bundle-size\":false,\"toolbar-cmdk-branch-switcher\":true,\"toolbar-cookie-injection\":true,\"toolbar-distributed-tracing\":false,\"toolbar-inp\":true,\"toolbar-inspector\":false,\"toolbar-multi-zone\":false,\"toolbar-no-personal-scope\":false,\"toolbar-open-graph\":true,\"toolbar-ppr-viewer\":false,\"toolbar-recents\":false,\"toolbar-runtime-logs\":false,\"toolbar-shrink\":false,\"toolbar-snap\":false,\"toolbar-tracing\":false,\"toolbar-vercel-agent\":false,\"trusted-i-ps-custom-limit\":20,\"tty-build-logs\":false,\"turborepo-future\":true,\"unprotected-projects-warning\":false,\"updated-invite-expire\":true,\"upgrade-modal-add-ons\":true,\"upgrade-monitoring-pro-trial\":false,\"upload-edge-functions-with-the-post-edge-functions-endpoint\":false,\"usage-increased-on-demand-email-reschedule-minutes\":0,\"usage-overage-notifications\":true,\"usage-project-names\":false,\"usage-summary-email-reschedule-minutes\":0,\"use-api-connectors\":false,\"use-bundled-usage-model-for-cloudflare-workers\":false,\"use-bytecode-caching\":true,\"use-cacheable-project-resources-query\":true,\"use-cached-project-resources-result\":true,\"use-default-pnpm10\":true,\"use-edge-functions-bridge-latest\":false,\"use-esm-syntax-for-edge-functions\":true,\"use-global-agent-for-s3-uploads\":false,\"use-kinesis-autoscale\":false,\"use-live-feedback\":true,\"use-new-drain-notifications\":true,\"use-new-speed-insights-usage-facts\":false,\"use-new-vercel-app-token-format\":true,\"use-next-js-bundled-server\":true,\"use-nodejs-24-as-default-version\":true,\"use-only-streaming-lambda\":true,\"use-pnpm-file\":false,\"use-rust-bun-layer-latest\":false,\"use-rust-edge-layer-latest\":false,\"use-rust-edge-worker-layer-latest\":false,\"use-rust-executable-layer-latest\":false,\"use-rust-layer-latest\":false,\"use-s3-for-functions-environment\":false,\"use-self-hosted-vsr-registry-instead-npmjs\":false,\"use-single-invoke-prerender-revalidate\":true,\"use-squashfs-build-cache\":true,\"use-streaming-prerender\":true,\"use-vercel-ts\":false,\"user-events-dual-read\":false,\"user-events-from-tinybird\":true,\"v0-deploy-to-vercel-for-everyone\":true,\"v0-ent-only\":false,\"v0-in-the-toolbar\":false,\"v0-rbac\":true,\"v0-teams-trial\":false,\"vade-github-proxy\":false,\"validate-deployment-promoted\":false,\"vc-build-monorepo-support\":true,\"vdc-remote-cache\":true,\"verbose-domain-registration-errors\":true,\"vercel-apps\":true,\"vercel-apps-allow-install\":false,\"vercel-auth-request-access\":true,\"vercel-backends-builds\":false,\"vercel-blob-usage-policy\":true,\"vercel-blob-usage-policy-v2\":true,\"vercel-branch-url-system-env\":true,\"vercel-coin\":false,\"vercel-dca\":true,\"vercel-production-url-system-env\":true,\"vercel-sandbox-absolute-path-write-file\":false,\"vercel-sandbox-allowed-snapshots-teams\":false,\"vercel-sandbox-expose-interactive-port\":true,\"vercel-sandbox-extra-allowed-runtimes\":[],\"vercel-sandbox-extra-concurrent-sandboxes\":0,\"vercel-sandbox-region-param\":false,\"vercel-sandbox-resource-limits\":{\"maxVcpus\":8,\"maxMemory\":16384,\"maxTimeoutMs\":2700000},\"vercel-sandbox-stream-read-file\":true,\"vercel-sandbox-stream-write-file\":true,\"vercel-sandbox-use-combined-log-output\":true,\"vercel-storage-domain\":true,\"verified-bots-bypass\":false,\"viewer-vercel-plus\":false,\"visit-with-the-toolbar\":true,\"vpc-peering\":false,\"vsm-env-only-s3-storage\":true,\"wagyu\":true,\"wake-up-deployment\":true,\"web-analytics-beta-participant\":false,\"web-analytics-billing\":true,\"web-analytics-empty-state\":true,\"web-analytics-pricing-refresh\":true,\"web-analytics-unbundle\":\"enabled\",\"webhook-domain-created\":\"disabled\",\"webhooks-as-code\":false,\"webhooks-v2\":true,\"webook-deployment-promoted\":true,\"zero-config-onboarding-monorepo\":true,\"zero-trial-experiment\":\"off\"}}"
+        }
+      ]
+    }
+  ]
+}
